@@ -3,7 +3,7 @@
 ## By Alex kimathi murithi
 
 ## screenshot
-![image](./assests/img/School%20Landing%20Page.png)
+![image](./assests/img/image10.png)
 
 ## Table Of Content
 
